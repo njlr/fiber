@@ -1,0 +1,9 @@
+{
+  "name": "boost-fiber",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-assert": "1.63.0",
+    "boost-context": "1.63.0",
+    "boost-intrusive": "1.63.0"
+  }
+}

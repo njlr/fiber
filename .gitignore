@@ -3,3 +3,9 @@ doc\html
 *~
 *.sw*
 cscope.*
+
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS

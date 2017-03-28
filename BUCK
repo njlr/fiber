@@ -1,7 +1,7 @@
 include_defs('//BUCKAROO_DEPS')
 
 cxx_library(
-  name = 'boost-fiber',
+  name = 'fiber',
   header_namespace = 'boost/fiber',
   exported_headers = subdir_glob([
     ('include/boost/fiber', '**/*.hpp'),
